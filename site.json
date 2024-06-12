@@ -66,15 +66,23 @@
             "indent": 0,
             "location": "pages\/item-03a028cf-85a5-4fb7-8eb2-4fff4d9c6103\/index.html",
             "slug": "home\/page",
-            "order": "0",
+            "order": 0,
             "parent": "item-f5df2c92-ec11-490d-addc-b7c9626b2e69",
-            "title": "Page",
-            "description": "",
+            "title": "Sub",
+            "description": "What is strawberry in Spanishfresa",
             "metadata": {
                 "created": 1718168586,
-                "updated": 1718168586,
-                "images": [],
-                "videos": []
+                "updated": 1718168650,
+                "images": [
+                    "https:\/\/dummyimage.com\/300x200\/000\/fff"
+                ],
+                "videos": [],
+                "published": true,
+                "pageType": "activity",
+                "hideInMenu": false,
+                "tags": "1",
+                "locked": false,
+                "readtime": 1
             }
         },
         {

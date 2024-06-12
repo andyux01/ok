@@ -60,5 +60,20 @@
       <guid>item-496cdd59-fd44-438b-8102-4f940fe67e9c</guid>
       <pubDate>Wed, 12 Jun 2024 05:03:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Sub</title>
+      <link>home/page</link>
+      <description>
+          <![CDATA[ 
+<p></p>
+<media-image source="https://dummyimage.com/300x200/000/fff" card citation="This is my citation." accent-color="grey" size="wide" offset="none"></media-image>
+<flash-card speak="speak" img-source="https://hips.hearstapps.com/clv.h-cdn.co/assets/15/22/1432664914-strawberry-facts1.jpg" listen="listen" accent-color="grey"><span slot="front">What is strawberry in Spanish</span><span slot="back">fresa</span></flash-card>
+<simple-cta label="Click to learn more" link="https://haxtheweb.org/" accent-color="grey" icon="icons:chevron-right" remote-link-target="{}" remote-link-url="https://haxtheweb.org/"></simple-cta>
+ ]]>
+      </description>
+      <category>1</category>
+      <guid>item-03a028cf-85a5-4fb7-8eb2-4fff4d9c6103</guid>
+      <pubDate>Wed, 12 Jun 2024 05:03:06 +0000</pubDate>
+    </item>
   </channel>
 </rss>
