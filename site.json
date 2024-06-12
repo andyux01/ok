@@ -1,0 +1,42 @@
+{
+    "id": "d585b658-7cc2-422e-a60d-d1462287a736",
+    "title": "ok",
+    "author": "",
+    "description": "",
+    "license": "by-sa",
+    "metadata": {
+        "author": {},
+        "site": {
+            "settings": {
+                "lang": "en"
+            },
+            "name": "ok",
+            "domain": null,
+            "created": 1718168454,
+            "updated": 1718168454
+        },
+        "theme": {
+            "variables": {}
+        },
+        "node": {
+            "fields": {}
+        }
+    },
+    "items": [
+        {
+            "id": "item-f5df2c92-ec11-490d-addc-b7c9626b2e69",
+            "indent": 0,
+            "location": "pages\/item-f5df2c92-ec11-490d-addc-b7c9626b2e69\/index.html",
+            "slug": "home",
+            "order": 0,
+            "parent": null,
+            "title": "Home",
+            "description": "",
+            "metadata": {
+                "created": 1718168454,
+                "updated": 1718168454
+            }
+        }
+    ],
+    "location": "\/sites\/ok\/index.html"
+}
