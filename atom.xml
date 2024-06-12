@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ok</title>
   <link href="" rel="self" />
-  <subtitle></subtitle>
-  <updated>2024-06-12T05:00:54+00:00</updated>
+  <subtitle>own website</subtitle>
+  <updated>2024-06-12T05:00:55+00:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,17 +11,35 @@
   <entry>
     <title>Home</title>
     <id>item-f5df2c92-ec11-490d-addc-b7c9626b2e69</id>
-    <updated>2024-06-12T05:00:54+00:00</updated>
+    <updated>2024-06-12T05:02:51+00:00</updated>
     <published>2024-06-12T05:00:54+00:00</published>
-    <summary></summary>
+    <summary>    To get started, hit the edit pencil on the side.    Now this content is editable in place so select and delete it to get started!    If you need to learn more about the HAX editor or HAXcms ch</summary>
     <link href="home"/>
     
     <content type="html">
-      <![CDATA[ <p>
+      <![CDATA[ 
+<p data-design-treatment="dropCap-md">
     To get started, hit the edit pencil on the side.
     Now this content is editable in place so select and delete it to get started!
     If you need to learn more about the HAX editor or HAXcms check out <a href="https://haxtheweb.org/ux-concepts" target="_blank" rel="noopener noreferrer">HAXTheWeb.org</a>!
-</p> ]]>
+</p>
+<grid-plate disable-responsive layout="2-1"><h2 data-design-treatment="vert" data-primary="15" slot="col-1">Scanning Process / Software</h2><p slot="col-1" role="textbox">The following stages of the process involves aligning the various scans to create
+    a coherent, detailed 3D model using Artec Studio 17 software. The point cloud is
+    converted into a mesh, which is a solid 3D model, and the texture data captured by
+    the scanner is mapped back onto the mesh to add color, markings, and other details.
+    The final 3D model can be exported into other software platforms, such as Blender
+    and Instant Mesh, both of which are open-source.</p>
+
+    <p ="true"="" slot="col-1">To optimize the model for web use, it must be reduced significantly in size. To
+    achieve this, the polygon count is reduced using Instant Mesh, and the resulting
+    low-polygon model is unwrapped, and the texture and additional details are added
+    through a process called “baking” onto the model using normal mapping. This is a
+    commonly used technique in film and video game production to reduce file sizes, processing
+    power, and other resources required.</p>
+
+ <media-image citation="3D scanner and software shown scanning an ODL coffee mug." accent-color="grey" size="wide" offset="none" slot="col-2" source="https://bones.courses.science.psu.edu/assets/images/scanning-page-images/scanner-odl.jpg" card box></media-image>
+</grid-plate>
+ ]]>
     </content>
   </entry>
 </feed>
