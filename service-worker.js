@@ -43,6 +43,10 @@ var precacheConfig = [
         "i57YkgdZvqrZr2ScsLXxg"
     ],
     [
+        "pages\/item-496cdd59-fd44-438b-8102-4f940fe67e9c\/index.html",
+        "BS8rs8GHeUmTfg4KjbAQ"
+    ],
+    [
         "pages\/item-e3294ff3-fcbb-4db5-8bf0-23a6ef9ec815\/index.html",
         "EUhWOYd6yJLeJHwPmbBBg"
     ],
@@ -84,7 +88,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "7U1frqFcNXDtOOnkoaF5TA"
+        "AyOC8NML5nRoAPKBNLqzQ"
     ],
     [
         "404.html",

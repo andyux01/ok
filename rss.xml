@@ -50,5 +50,15 @@
       <guid>item-e3294ff3-fcbb-4db5-8bf0-23a6ef9ec815</guid>
       <pubDate>Wed, 12 Jun 2024 05:02:55 +0000</pubDate>
     </item>
+    <item>
+      <title>Page</title>
+      <link>page/page</link>
+      <description>
+          <![CDATA[ <p></p> ]]>
+      </description>
+      <category></category>
+      <guid>item-496cdd59-fd44-438b-8102-4f940fe67e9c</guid>
+      <pubDate>Wed, 12 Jun 2024 05:03:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
